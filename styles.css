@@ -1,0 +1,27 @@
+h2.introduction {
+    color: brown;
+}
+
+.introduction {
+    font-family: cursive;
+    color: cadetblue;
+    text-align: center;
+}
+
+.introduction h2 {
+    color: brown;
+}
+
+.introduction img {
+    animation-duration: inherit;
+}
+
+.body {
+    font-family: cursive;
+    color: yellowgreen;
+    text-align: center;
+}
+
+.body h2 {
+    color: brown;
+}
